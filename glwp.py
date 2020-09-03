@@ -1,7 +1,7 @@
 """
 !/usr/bin/env python3
 __AUTHOR = "JIMOH IDRIS OLANSHILE"
-__DATE = "DEC 2019 - till date."
+__DATE = "AUG 2020 - till date."
 """
 from tkinter import *
 from tkinter import messagebox as mb
